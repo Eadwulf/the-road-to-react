@@ -1,0 +1,6 @@
+³⁸https://codesandbox.io/s/github/the-road-to-learn-react/hacker-stories/tree/hs/Lists-in-React
+³⁹https://github.com/the-road-to-learn-react/hacker-stories/compare/hs/React-JSX...hs/Lists-in-React?expand=1
+⁴⁰https://dev.to/jtonzing/the-significance-of-react-keys---a-visual-explanation--56l7
+⁴¹https://www.robinwieruch.de/react-list-key
+⁴²https://reactjs.org/docs/lists-and-keys.html
+⁴³https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/
