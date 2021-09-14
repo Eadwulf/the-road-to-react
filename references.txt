@@ -4,3 +4,8 @@
 ⁴¹https://www.robinwieruch.de/react-list-key
 ⁴²https://reactjs.org/docs/lists-and-keys.html
 ⁴³https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/
+⁴⁶https://reactjs.org/docs/rendering-elements.html
+⁴⁷https://codesandbox.io/s/github/the-road-to-learn-react/hacker-stories/tree/hs/React-Component-Definition
+⁴⁸https://github.com/the-road-to-learn-react/hacker-stories/compare/hs/Meet-another-React-Component...hs/React-Component-
+⁴⁹https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+
