@@ -1,3 +1,4 @@
+import React from 'react';
 import './App.css';
 
 
@@ -16,8 +17,7 @@ function List(props) {
 
 function App() {
   const stories = [
-    {
-      title: 'React',
+    { title: 'React',
       url: 'https://reactjs.org/',
       author: 'Jordan Walke',
       num_comments: 3,
@@ -34,8 +34,10 @@ function App() {
     },
   ];
 
+  const [searchTerm, setSearchTerm] = React.useState('');
+
   const handleChange = event => {
-    console.log(event.target.value);
+    setSearchTerm(event.target.value);
   };
 
   return (
@@ -43,6 +45,9 @@ function App() {
       <h1>The Road To React</h1>
       <label htmlFor="search">Search: </label>
       <input id="search" type="text" onChange={handleChange} />
+      <p>
+        Searching for <strong>{searchTerm}</strong>.
+      </p>
       <hr />
       <List list={stories} />
     </div>

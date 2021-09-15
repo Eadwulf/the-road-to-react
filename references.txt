@@ -9,3 +9,6 @@
 ⁴⁸https://github.com/the-road-to-learn-react/hacker-stories/compare/hs/Meet-another-React-Component...hs/React-Component-
 ⁴⁹https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
 
+
+⁶²https://www.robinwieruch.de/react-usestate-hook
+⁶³https://reactjs.org/docs/hooks-state.html
