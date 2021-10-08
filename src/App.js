@@ -1,29 +1,14 @@
 import React from 'react';
 import './App.css';
 
-import CountButton from './blog/stateInReact';
+import App11 from './versions/App11';
 
-function App() {
-  const [searchTerm, setSearchTerm] = React.useState('');
-
-  const handleChange = event => {
-    setSearchTerm(event.target.value);
-  };
-
+const App = () => {
   return (
     <div>
-      <h1>The Road To React</h1>
-
-      <label htmlFor="search">Search: </label>
-      <input id="search" type="text" onChange={handleChange} />
-      <p>Searching for <strong>{searchTerm}</strong>.</p>
-
-      <br /><br /><br />
-
-      <CountButton />
-
+      <App11 />
     </div>
   );
-}
+};
 
 export default App;
